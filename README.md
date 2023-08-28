@@ -2,7 +2,7 @@
 
 **CREATIONAL PATTERNS**:
 These patterns deal with object creation mechanisms, trying to abstract the instantiation process and make it more flexible and dynamic.
-Singleton: Ensures that a class has only one instance and provides a global point of access to it.
+Singleton: Ensures that a class has **only one instance** and provides a **global point of access** to it.
 Factory Method: Defines an **interface** for creating objects, but lets subclasses decide which class to **instantiate**.
 Abstract Factory: Provides an **interface** for creating **families** of related or dependent objects without specifying their **concrete** classes.
 Builder: **Separates** the construction of a **complex** object from its **representation**, allowing the **same construction process** to create **various **representations**.
